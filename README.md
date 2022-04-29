@@ -3,6 +3,8 @@
 SEC2024 - ETS
 
 To run the program you must be :
+    
+   
     1) Install tensorflow and all the required libraries
 
     2) Create an model using the file model.py
